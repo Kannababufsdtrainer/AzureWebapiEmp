@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyRepo\\EmpCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5CB8F8-5938-4E7E-BC41-318D64587124}|EmpCrud.csproj|d:\\myrepo\\empcrud\\repo\\emprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5CB8F8-5938-4E7E-BC41-318D64587124}|EmpCrud.csproj|solutionrelative:repo\\emprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5CB8F8-5938-4E7E-BC41-318D64587124}|EmpCrud.csproj|d:\\myrepo\\empcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B5CB8F8-5938-4E7E-BC41-318D64587124}|EmpCrud.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5CB8F8-5938-4E7E-BC41-318D64587124}|EmpCrud.csproj|d:\\myrepo\\empcrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5CB8F8-5938-4E7E-BC41-318D64587124}|EmpCrud.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5CB8F8-5938-4E7E-BC41-318D64587124}|EmpCrud.csproj|d:\\myrepo\\empcrud\\sl\\empservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5CB8F8-5938-4E7E-BC41-318D64587124}|EmpCrud.csproj|solutionrelative:sl\\empservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5CB8F8-5938-4E7E-BC41-318D64587124}|EmpCrud.csproj|d:\\myrepo\\empcrud\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5CB8F8-5938-4E7E-BC41-318D64587124}|EmpCrud.csproj|solutionrelative:controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5CB8F8-5938-4E7E-BC41-318D64587124}|EmpCrud.csproj|d:\\myrepo\\empcrud\\repo\\iemprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5CB8F8-5938-4E7E-BC41-318D64587124}|EmpCrud.csproj|solutionrelative:repo\\iemprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5CB8F8-5938-4E7E-BC41-318D64587124}|EmpCrud.csproj|d:\\myrepo\\empcrud\\sl\\iempservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5CB8F8-5938-4E7E-BC41-318D64587124}|EmpCrud.csproj|solutionrelative:sl\\iempservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5CB8F8-5938-4E7E-BC41-318D64587124}|EmpCrud.csproj|d:\\myrepo\\empcrud\\empcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B5CB8F8-5938-4E7E-BC41-318D64587124}|EmpCrud.csproj|solutionrelative:empcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5CB8F8-5938-4E7E-BC41-318D64587124}|EmpCrud.csproj|d:\\myrepo\\empcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5CB8F8-5938-4E7E-BC41-318D64587124}|EmpCrud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "D:\\MyRepo\\EmpCrud\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpController.cs",
+              "ToolTip": "D:\\MyRepo\\EmpCrud\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "Controllers\\EmpController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:34:42.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpService.cs",
+              "DocumentMoniker": "D:\\MyRepo\\EmpCrud\\SL\\EmpService.cs",
+              "RelativeDocumentMoniker": "SL\\EmpService.cs",
+              "ToolTip": "D:\\MyRepo\\EmpCrud\\SL\\EmpService.cs",
+              "RelativeToolTip": "SL\\EmpService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:33:57.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmpService.cs",
+              "DocumentMoniker": "D:\\MyRepo\\EmpCrud\\SL\\IEmpService.cs",
+              "RelativeDocumentMoniker": "SL\\IEmpService.cs",
+              "ToolTip": "D:\\MyRepo\\EmpCrud\\SL\\IEmpService.cs",
+              "RelativeToolTip": "SL\\IEmpService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAABUwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:33:11.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyRepo\\EmpCrud\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MyRepo\\EmpCrud\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBSwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:32:21.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpRepo.cs",
+              "DocumentMoniker": "D:\\MyRepo\\EmpCrud\\Repo\\EmpRepo.cs",
+              "RelativeDocumentMoniker": "Repo\\EmpRepo.cs",
+              "ToolTip": "D:\\MyRepo\\EmpCrud\\Repo\\EmpRepo.cs",
+              "RelativeToolTip": "Repo\\EmpRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:31:54.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmpRepo.cs",
+              "DocumentMoniker": "D:\\MyRepo\\EmpCrud\\Repo\\IEmpRepo.cs",
+              "RelativeDocumentMoniker": "Repo\\IEmpRepo.cs",
+              "ToolTip": "D:\\MyRepo\\EmpCrud\\Repo\\IEmpRepo.cs",
+              "RelativeToolTip": "Repo\\IEmpRepo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAEBQwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:30:00.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\MyRepo\\EmpCrud\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\MyRepo\\EmpCrud\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:28:10.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpCrud.csproj",
+              "DocumentMoniker": "D:\\MyRepo\\EmpCrud\\EmpCrud.csproj",
+              "RelativeDocumentMoniker": "EmpCrud.csproj",
+              "ToolTip": "D:\\MyRepo\\EmpCrud\\EmpCrud.csproj",
+              "RelativeToolTip": "EmpCrud.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T13:26:15.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MyRepo\\EmpCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\MyRepo\\EmpCrud\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAMBRwA0AAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T13:35:20.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
